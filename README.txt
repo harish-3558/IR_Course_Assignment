@@ -14,6 +14,7 @@ WikiDownloader.java retrieves article text from the Telugu Wikipedia API
 using the titles in titles.txt. Running WikiDownloader creates the
 WikiExtractor-format collection at data\wiki.txt. The collection contains six
 articles, and the dataset file is included in this repository.
+
 Data and index Git Link : https://github.com/harish-3558/IR_Course_Assignment.git
 
 REQUIREMENTS
